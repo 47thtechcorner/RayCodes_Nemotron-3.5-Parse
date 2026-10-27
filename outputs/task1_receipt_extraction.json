@@ -1,0 +1,43 @@
+{
+  "merchant": {
+    "name": "Main Street Restaurant",
+    "address": "6332 Business Drive, Suite 528, Palo Alto California 94301",
+    "phone": "575-1628095"
+  },
+  "transaction_info": {
+    "date": "Fri 04/07/2017",
+    "time": "2:47 PM",
+    "merchant_id": "9hqjxvufdr",
+    "terminal_id": "11111",
+    "order_id": "#4a59c18f",
+    "order_number": "1",
+    "transaction_id": "#1ca099eb",
+    "type": "CREDIT",
+    "card_number": "XXXXXXXXXXXX0041",
+    "entry_mode": "Swiped",
+    "card_type": "DISCOVER",
+    "response": "APPROVED",
+    "approval_code": "826425"
+  },
+  "line_items": [
+    {
+      "description": "Chocolate Chip Cooki",
+      "price": 5.0
+    },
+    {
+      "description": "Apple Pie",
+      "price": 3.0
+    },
+    {
+      "description": "Lava Cake",
+      "precision": null,
+      "price": 4.0
+    }
+  ],
+  "totals": {
+    "sub_total": 12.0,
+    "tip": 2.16,
+    "total": 14.16,
+    "currency": "USD"
+  }
+}

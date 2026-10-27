@@ -1,0 +1,1 @@
+FROM ./models/nemotron-parse-q8_0.gguf
